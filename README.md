@@ -4,7 +4,7 @@ I am a recent graduate of the MSc in [Statistical Science program](https://www.s
 
 **Contact :** ```adrien[dot]chkirate[at]st-hughs[dot]ox[dot]ac[dot]uk```
 
-## Recent selected Projects 
+## Recent Projects 
 
 * ***"Gaining Economic Insights Through Deep Learning on Satellite Imagery"*** explores the potential of high-resolution satellite imagery for predicting urban wealth levels, as indicated by income per capita. It incorporates a pipeline capable of extracting the complete road network of an area while also detecting various essential infrastructure, such as airports and sports facilities. [Paper](https://github.com/LexAdrim/economic-insights-satellite/blob/main/Gaining%20Economic%20Insights%20Through%20Deep%20Learning%20on%20Satellite%20Imagery.pdf), [Repository](https://github.com/LexAdrim/economic-insights-satellite/tree/main)
 
