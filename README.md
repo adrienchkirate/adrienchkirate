@@ -24,7 +24,7 @@ I am a recent graduate of the MSc in [Statistical Science program](https://www.s
 ## Some Web Development Projects (Pre-2018)
 
 * A web application simulating [the jeep problem](https://en.wikipedia.org/wiki/Jeep_problem) also known as the desert crossing problem also integrating an optimal solution. [Application](http://adrienchkirate.com/app/jeep/), [Repository](https://github.com/LexAdrim/Jeep-problem-simulation) 
-* A web application developped during an internship at the [xlim](https://www.xlim.fr/) research institute to facilitate the manipulation of experimental curves and optimize their fitting to Gaussian distributions for researchers. [Application](http://adrienchkirate.com/app/hf5v2/), [Repository](https://github.com/LexAdrim/gaussian-curves-webapp)
+* A web application developped during an internship at the [xlim](https://www.xlim.fr/) research institute to facilitate the manipulation of experimental curves and optimize their fitting to Gaussian distributions for researchers. [Application](https://adrienchkirate.github.io/datavizwebapp/), [Repository](https://github.com/LexAdrim/gaussian-curves-webapp)
 
 
 ## Awards
